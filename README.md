@@ -15,6 +15,17 @@ A simple yet effective command-line based To-Do List application built using Pyt
 ---
 ## 🖼️ Screenshot
 
+Here’s how the ToDoList CLI looks in action:
+
+### 🧭 Menu  
+![Menu Screenshot](https://raw.githubusercontent.com/Shubham-Loshali/ToDoList/main/screenshot/menu.png)
+
+### ➕ Adding a Task  
+![Add Task Screenshot](https://raw.githubusercontent.com/Shubham-Loshali/ToDoList/main/screenshot/add-task.png)
+
+### 📋 Viewing Tasks  
+![View Tasks Screenshot](https://raw.githubusercontent.com/Shubham-Loshali/ToDoList/main/screenshot/view-tasks.png)
+
 
 
 
